@@ -4,9 +4,7 @@ Welcome to the repository for my Javascript Password Generator website. This sit
 
 ## Features
 
-- **
-- **
-- **
+- ** Interactive design using buttons and alerts to give prompts to generate a random password.
 
 ## Technologies Used
 
@@ -14,20 +12,24 @@ Welcome to the repository for my Javascript Password Generator website. This sit
   
 ## Getting Started
 
-To view the project locally, simply clone the repository to your local machine and open `index.html` in your web browser.
+To view the project locally, simply clone the repository to your local machine and open `index.html` in your web browser. 
+https://mpierson00.github.io/JavaPasswordGenerator/
 
 
 ## Contributing
+
+- Gitlab UNC Chapel Hill
+- www.Google.com
 
 Feel free to fork the repository, make changes, and submit a pull request. If you have any questions or suggestions, please don't hesitate to contact me.
 
 ## Acknowledgments
 
-
+- The HTML and CSS where supplied elements. Only updated the JavaScript.
 
 Thank you for visiting my portfolio repository. I hope you find the projects interesting and informative.
 
-
+![JavaScript Password Generator](./Image/127.0.0.1_5501_Class-Project_Javaproj_index.html.png)
 
 ## Liscense
 MIT License 
