@@ -6,6 +6,7 @@ function writePassword() {
   var length = prompt("Enter the desired length of your password (8-128 characters):");
   if (length < 8 || length > 128 || isNaN(length)) {
     alert("Password length must be a number between 8 and 128.");
+    return;
   }
   // Password option alerts
   var includeUppercase = confirm("Would you like to include uppercase letters? Click OK for yes, Cancel for no.");
