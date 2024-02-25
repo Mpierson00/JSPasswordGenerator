@@ -29,7 +29,7 @@ Feel free to fork the repository, make changes, and submit a pull request. If yo
 
 Thank you for visiting my portfolio repository. I hope you find the projects interesting and informative.
 
-![JavaScript Password Generator](./Image/127.0.0.1_5501_Class-Project_Javaproj_index.html.png)
+![JavaScript Password Generator](./assets/Image/127.0.0.1_5501_Class-Project_Javaproj_index.html.png)
 
 ## Liscense
 MIT License 
